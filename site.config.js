@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'weiying',
-  domain: 'https://www.notion.so/weiying/ying-e839ebf4f25e4afabbf84dd521be3117',
+  domain: 'https://www.notion.so/weiying/YING-e839ebf4f25e4afabbf84dd521be3117',
   author: 'weiying',
 
   // open graph metadata (optional)
