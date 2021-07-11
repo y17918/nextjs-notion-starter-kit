@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '2d1fba1a6054482db6488d9bf4f42a43',
+  rootNotionPageId: 'e839ebf4f25e4afabbf84dd521be3117',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'weiying',
-  domain: 'https://www.notion.so/weiying/Home-2d1fba1a6054482db6488d9bf4f42a43',
+  domain: 'https://www.notion.so/weiying/ying-e839ebf4f25e4afabbf84dd521be3117',
   author: 'weiying',
 
   // open graph metadata (optional)
